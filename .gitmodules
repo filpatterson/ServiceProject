@@ -1,0 +1,8 @@
+[submodule "serviceProject_currency"]
+	path = serviceProject_currency
+	url = https://github.com/filpatterson/serviceProject_currency.git
+	branch = master
+[submodule "serviceProject_gateway"]
+	path = serviceProject_gateway
+	url = https://github.com/filpatterson/serviceProject_gateway.git
+	branch = master
