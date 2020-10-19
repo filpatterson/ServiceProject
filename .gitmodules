@@ -6,3 +6,7 @@
 	path = serviceProject_gateway
 	url = https://github.com/filpatterson/serviceProject_gateway.git
 	branch = master
+[submodule "serviceProject_news"]
+	path = serviceProject_news
+	url = https://github.com/JingoBongo/serviceProject_news.git
+	branch = master
